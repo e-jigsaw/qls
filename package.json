@@ -1,0 +1,18 @@
+{
+  "name": "qls",
+  "version": "0.0.1",
+  "description": "quoted ls",
+  "bin": {
+    "qls": "./bin/qls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-jigsaw/qls.git"
+  },
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-jigsaw/qls/issues"
+  },
+  "homepage": "https://github.com/e-jigsaw/qls"
+}
