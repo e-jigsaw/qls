@@ -22,6 +22,16 @@ qls
 'package.json'
 ```
 
+# Changelog
+
+## v0.0.2
+
+* `-f` Full path option
+
+## v0.0.1
+
+* Initial release
+
 # Author
 
 * Jigsaw (http://jgs.me)
