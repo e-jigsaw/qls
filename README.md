@@ -22,6 +22,16 @@ qls
 'package.json'
 ```
 
+Full path option is `-f`.
+
+```
+% qls -f .
+'/src/qls/.git'
+'/src/qls/bin'
+'/src/qls/lib'
+'/src/qls/package.json'
+```
+
 # Changelog
 
 ## v0.0.2
